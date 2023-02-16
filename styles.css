@@ -47,3 +47,17 @@ header {
     margin: 15px;
     padding: 5px;
 }
+
+.CTA {
+    padding: 8px;
+    width: 100px;
+    background-color: royalblue;
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid royalblue;
+    border-radius: 50px;
+}
+
+.CTA:hover{
+    opacity: 0.8;
+}
