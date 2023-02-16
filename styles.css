@@ -93,3 +93,15 @@ header {
     color: grey;
     text-align: left;
 }
+
+.quote {
+    font-size: 25px;
+    width: 100%;
+    height: 150px;
+    margin: auto;
+}
+
+.quote p {
+    text-align: center;
+    padding: 20px;
+}
